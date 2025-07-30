@@ -9,15 +9,15 @@ interface DateItem {
 export default function ImportantDatesSection() {
   const dates: DateItem[] = [
     {
-      event: "Deadline for Full Paper submission",
-      date: "July 31, 2025",
-      month: "JUL",
+      event: "Extended Deadline for Full Paper submission",
+      date: "August 31, 2025",
+      month: "August",
       day: "31",
     },
     {
       event: "Deadline for Tutorial and Workshop proposal",
-      date: "July 31, 2025",
-      month: "JUL",
+      date: "August 31, 2025",
+      month: "August",
       day: "31",
     },
     {
